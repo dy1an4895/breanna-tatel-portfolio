@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/breanna-tatel-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/breanna-tatel-portfolio/static/js/main.b950b701.js",
+    "main.js": "/breanna-tatel-portfolio/static/js/main.04bb8aa9.js",
     "static/js/453.f86b9223.chunk.js": "/breanna-tatel-portfolio/static/js/453.f86b9223.chunk.js",
     "index.html": "/breanna-tatel-portfolio/index.html",
     "main.e6c13ad2.css.map": "/breanna-tatel-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.b950b701.js.map": "/breanna-tatel-portfolio/static/js/main.b950b701.js.map",
+    "main.04bb8aa9.js.map": "/breanna-tatel-portfolio/static/js/main.04bb8aa9.js.map",
     "453.f86b9223.chunk.js.map": "/breanna-tatel-portfolio/static/js/453.f86b9223.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b950b701.js"
+    "static/js/main.04bb8aa9.js"
   ]
 }
