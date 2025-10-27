@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/breanna-tatel-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/breanna-tatel-portfolio/static/js/main.8bd3a75e.js",
-    "static/js/453.f86b9223.chunk.js": "/breanna-tatel-portfolio/static/js/453.f86b9223.chunk.js",
+    "main.css": "/breanna-tatel-portfolio/static/css/main.e3ce2b79.css",
+    "main.js": "/breanna-tatel-portfolio/static/js/main.9214f65f.js",
     "index.html": "/breanna-tatel-portfolio/index.html",
-    "main.e6c13ad2.css.map": "/breanna-tatel-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.8bd3a75e.js.map": "/breanna-tatel-portfolio/static/js/main.8bd3a75e.js.map",
-    "453.f86b9223.chunk.js.map": "/breanna-tatel-portfolio/static/js/453.f86b9223.chunk.js.map"
+    "main.e3ce2b79.css.map": "/breanna-tatel-portfolio/static/css/main.e3ce2b79.css.map",
+    "main.9214f65f.js.map": "/breanna-tatel-portfolio/static/js/main.9214f65f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.8bd3a75e.js"
+    "static/css/main.e3ce2b79.css",
+    "static/js/main.9214f65f.js"
   ]
 }
