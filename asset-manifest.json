@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/breanna-tatel-portfolio/static/css/main.e3ce2b79.css",
-    "main.js": "/breanna-tatel-portfolio/static/js/main.9214f65f.js",
+    "main.js": "/breanna-tatel-portfolio/static/js/main.841df153.js",
     "index.html": "/breanna-tatel-portfolio/index.html",
     "main.e3ce2b79.css.map": "/breanna-tatel-portfolio/static/css/main.e3ce2b79.css.map",
-    "main.9214f65f.js.map": "/breanna-tatel-portfolio/static/js/main.9214f65f.js.map"
+    "main.841df153.js.map": "/breanna-tatel-portfolio/static/js/main.841df153.js.map"
   },
   "entrypoints": [
     "static/css/main.e3ce2b79.css",
-    "static/js/main.9214f65f.js"
+    "static/js/main.841df153.js"
   ]
 }
